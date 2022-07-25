@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Maltipoo"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "The world's most adorable and sensitive pup.",
+  "image": "ipfs://이부분에 CID 를 복사해서 넣음",
+  "name": "이름 지정하기"
+}
