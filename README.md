@@ -1,6 +1,8 @@
 # ERC-721 강의자료
 
 ##
+> ### #. 만든 메타마스크 네트워크를 Rinkeby로 변경 후 https://faucets.chain.link/rinkeby 들어가서 연결 후 testETH 받기
+
 > 1. MyNFTs.sol 파일을 클릭해서 들어가고 그 안에 있는 내용을 전부 복사 ( 전부 드래그 하여 ctrl+c )
 
 > 2. 다른 브라우저를 키고 https://remix.ethereum.org/ 들어가기
@@ -21,7 +23,7 @@
 
 > 10. 왼쪽 돋보기아이콘 2번째 밑에 있는 아이콘을 클릭
 
-> 11. CONTRACT 부분에 ERC721를 찾아 클릭
+> 11. ENVIRONMENT 부분을 Injected Provider로 변경 후 CONTRACT 부분에 ERC721를 찾아 클릭
 
 > 12. Depoly 버튼 옆에 밑화살표 클릭
 
