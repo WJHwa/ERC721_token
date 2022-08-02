@@ -1,7 +1,7 @@
 # ERC-721 강의자료
 
 ##
-> ### #. 만든 메타마스크 네트워크를 Rinkeby로 변경 후 https://faucets.chain.link/rinkeby 들어가서 연결 후 0.1testETH만 선택 후 받기
+> ### #. 만든 메타마스크 네트워크를 Ropsten 으로 변경 후 https://faucets.chain.link/rinkeby 들어가서 연결 후 user 칸에 1 ether 클릭.
 
 > 1. MyNFTs.sol 파일을 클릭해서 들어가고 그 안에 있는 내용을 전부 복사 ( 전부 드래그 하여 ctrl+c )
 
@@ -43,13 +43,13 @@
 
 > 20. (이름은 자유).json을 만듬.(MyNFTs.sol 위에 있는 json 형식 파일 확인)
 
-> 21. image 부분에 ipfs://(여기에 복사붙여넣기).
+> 21. image 부분에 ipfs://(여기에 복사붙여넣기) 하고 Name 부분 작성.
 
 > 22. 다시 돌아와서 Upload 버튼 클릭 File 을 클릭 Select a file 클릭 (이름은 자유).json 파일 클릭.
 
 > 23. json 파일의 CID를 복사해서 'tokenURI' 에 넣고 transact 버튼 클릭 (16번째 2번째 빈칸)
 
-> 24. https://testnets.opensea.io/ 에 들어가서 메타마스크와 지갑연결을 하고 NFT가 정상적으로 발행된걸 확인.
+> 24. https://testnets.opensea.io/ 에 들어가서 메타마스크와 지갑연결을 하고 NFT가 정상적으로 발행된걸 확인.(21번째 Name을 검색)
 
 
 
