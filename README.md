@@ -1,7 +1,7 @@
 # ERC-721 강의자료
 
 ##
-> ### #. 만든 메타마스크 네트워크를 Ropsten 으로 변경 후 https://faucets.chain.link/rinkeby 들어가서 연결 후 user 칸에 1 ether 클릭.
+> ### #. 만든 메타마스크 네트워크를 Ropsten 으로 변경 후 https://faucets.chain.link/rinkeby 들어가서 연결 후 request 1 ether from faucet 버튼 클릭
 
 > 1. MyNFTs.sol 파일을 클릭해서 들어가고 그 안에 있는 내용을 전부 복사 ( 전부 드래그 하여 ctrl+c )
 
