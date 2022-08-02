@@ -1,7 +1,7 @@
 # ERC-721 강의자료
 
 ##
-> ### #. 만든 메타마스크 네트워크를 Rinkeby로 변경 후 https://faucets.chain.link/rinkeby 들어가서 연결 후 testETH 받기
+> ### #. 만든 메타마스크 네트워크를 Rinkeby로 변경 후 https://faucets.chain.link/rinkeby 들어가서 연결 후 0.1testETH만 선택 후 받기
 
 > 1. MyNFTs.sol 파일을 클릭해서 들어가고 그 안에 있는 내용을 전부 복사 ( 전부 드래그 하여 ctrl+c )
 
