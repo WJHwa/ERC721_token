@@ -36,6 +36,7 @@
 > 16. mintNFT 를 선택해서 빈칸을 입력(recipient 는 '메타마스크 주소', tokenURI 에는 NFT화 시킬 이미지가 저장되어있는 '주소')
 
 > 17. https://www.pinata.cloud/ 로 들어가서 회원가입하기.
+> (pinata 페이지는 무료로 CID 데이터를 뽑아주고 IPFS에 대신 업로드 해주는 서비스)
 
 > 18. 회원가입이 끝나면 Upload 버튼 클릭 File 을 클릭 Select a file 클릭(NFT화 할 이미지 클릭)
 
